@@ -1,0 +1,6 @@
+本周AI研究呈现多维突破：推理压缩技术实现59%令牌削减并提升16%准确率；知识Agent KARL在企业搜索任务上超越Claude/GPT；视频生成Helios达19.53 FPS里程碑；高效VLM Penguin-VL以少数据达成领先性能。总体趋势：轻量化与实时性成为核心竞争方向。
+
+On-Policy Self-Distillation for Reasoning Compression https://arxiv.org/abs/2603.05433; 
+KARL: Knowledge Agents via Reinforcement Learning https://arxiv.org/abs/2603.05218; 
+Helios: Real Real-Time Long Video Generation https://arxiv.org/abs/2603.04379; 
+Penguin-VL: Exploring the Efficiency Limits of VLM https://arxiv.org/abs/2603.06569
