@@ -1,0 +1,6 @@
+近3日AI研究呈现推理压缩与长视频生成两大趋势：On-Policy自蒸馏实现token减少41-59%同时准确率提升16个百分点，Agentic关键训练提升任务成功率4.62%；视频生成迎突破，Scale Space Diffusion训练耗时降超50%，HiAR实现更长时序视频生成，Holi-Spatial构建400万标注的3D空间智能数据集。
+On-Policy Self-Distillation for Reasoning Compression https://www.alphaxiv.org/abs/2603.05433; 
+Agentic Critical Training https://www.arxiv.org/abs/2603.08706; 
+Scale Space Diffusion https://www.arxiv.org/abs/2603.08709; 
+HiAR https://www.arxiv.org/abs/2603.08703; 
+Holi-Spatial https://www.arxiv.org/abs/2603.07660
