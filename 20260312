@@ -1,0 +1,7 @@
+今日AI热点聚焦多模态统一与实时生成：InternVL-U将理解、推理、生成、编辑能力整合至4B参数模型；Helios实现单GPU 19.53 FPS实时长视频生成；NVIDIA MoE框架在Blackwell GPU上达1200 TFLOPS；$OneMillion-Bench揭示语言Agent与人类专家的可靠性差距。
+Scalable Training of Mixture-of-Experts Models with Megatron Core https://www.arxiv.org/abs/2603.07685; 
+InternVL-U: Democratizing Unified Multimodal Models https://www.arxiv.org/abs/2603.09877; 
+Helios: Real Real-Time Long Video Generation Model https://www.arxiv.org/abs/2603.04379; 
+$OneMillion-Bench: How Far are Language Agents from Human Experts? https://www.arxiv.org/abs/2603.07980; 
+How Far Can Unsupervised RLVR Scale LLM Training? https://www.arxiv.org/abs/2603.08660; 
+Agentic Critical Training https://www.arxiv.org/abs/2603.08706
